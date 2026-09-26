@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+      <rect width="1200" height="800" fill="#17130f"/>
+      <rect x="35" y="35" width="1130" height="730" rx="18" fill="none" stroke="#b79558" stroke-width="2"/>
+      <text x="600" y="370" text-anchor="middle" fill="#d5b66e" font-family="Georgia,serif" font-size="58">GOLD</text>
+      <text x="600" y="430" text-anchor="middle" fill="#eee7da" font-family="Arial,sans-serif" font-size="24" letter-spacing="4">9KT • 14KT • 18KT • 22KT</text>
+    </svg>
